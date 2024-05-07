@@ -6,15 +6,10 @@ body{
 
 }
 
-/* .wrap{
-    height:100vh;
-} */
 
 
 img{
-    /* max-width: 50%; */
     width:150px;
-    /* max-height:50em; */
     border-radius: 50%;
     
 
@@ -74,8 +69,6 @@ input{
 fieldset{
     background-color: rgba(30,30,31,255);
     border: none;
-    /* width:20px; */
-    /* height:30vh; */
     height:fit-content;
     border-radius: 20px;
     
@@ -109,11 +102,6 @@ input:hover{
     margin-top: 2px;
 }
 
-/* .menu-container {
-    position: absolute;
-    white-space: nowrap;
-    overflow: hidden;
 
-} */
 
 
