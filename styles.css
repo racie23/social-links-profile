@@ -65,6 +65,10 @@ input{
 
 }
 
+input::placeholder{
+    color: white;
+}
+
 
 fieldset{
     background-color: rgba(30,30,31,255);
